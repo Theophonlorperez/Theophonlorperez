@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack em formação`**
 
-Meu nome é Theo Phonlor Perez, tenho 19 anos e sou natural do Rio Grande do Sul, atualmente estou cursando Analise e Desenvolvimento de Sistemas na PUCRS, Atualmente no segundo trimestre do curso de Análise e Desenvolvimento de Sistemas na PUCRS. Tenho domínio prático e teórico em Python, Git, GitHub e fundamentos sólidos de engenharia de software. Com  inglês avançado e raciocínio lógico apurado, encaro a programação como uma paixão e desafios como oportunidades de crescimento, aqui esta meu linkedin caso queira entrar em contato[ Meu Linkedin](https://www.linkedin.com/in/theo-perez-9544b6361/) , não hesite em entrar em contato!😉
+Meu nome é Theo Phonlor Perez, tenho 19 anos e sou natural do Rio Grande do Sul, atualmente estou cursando Analise e Desenvolvimento de Sistemas na PUCRS, Atualmente no segundo semestre do curso de Análise e Desenvolvimento de Sistemas na PUCRS. Tenho domínio prático e teórico em Python, Git, GitHub e fundamentos sólidos de engenharia de software. Com  inglês avançado e raciocínio lógico apurado, encaro a programação como uma paixão e desafios como oportunidades de crescimento, aqui esta meu linkedin caso queira entrar em contato[ Meu Linkedin](https://www.linkedin.com/in/theo-perez-9544b6361/) , não hesite em entrar em contato!😉
 
 ---
 
